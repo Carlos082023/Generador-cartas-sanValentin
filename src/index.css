@@ -1,0 +1,155 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f7f7;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #e74c3c;
+  font-family: 'Georgia', serif;
+}
+
+/* Estilo de la carta */
+.card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card input,
+.card button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.card button {
+  background-color: #e74c3c;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Display de la carta generada */
+.letter-display {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 900px;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f0cece;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.letter-content {
+  width: 60%;
+  padding-right: 20px;
+}
+
+.heart {
+  font-size: 2rem;
+  color: #e74c3c;
+}
+
+.photo-display img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.heart {
+  font-size: 2em;
+  color: #e6242f;
+  margin-top: 20px;
+}
+
+/* Animación de corazones */
+@keyframes hearts {
+  0% { transform: translateY(0px); opacity: 1; }
+  100% { transform: translateY(-100px); opacity: 0; }
+}
+
+.heart {
+  position: absolute;
+  color: #ff4d6d;
+  animation: hearts 2s infinite;
+}
+
+/* Media Queries para adaptabilidad */
+
+/* Pantallas pequeñas: móviles */
+@media (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .card {
+    width: 90%;
+  }
+
+  .letter-display {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .letter-content {
+    width: 100%;
+    padding-right: 0;
+  }
+
+  .photo-display img {
+    width: 100%;
+    height: 200px;
+  }
+}
+
+/* Pantallas medianas: tablet */
+@media (max-width: 900px) {
+  .container {
+    padding: 15px;
+  }
+
+  .title {
+    font-size: 1.8rem;
+  }
+
+  .card {
+    width: 80%;
+  }
+
+  .letter-display {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .letter-content {
+    width: 100%;
+    padding-right: 0;
+  }
+
+  .photo-display img {
+    width: 100%;
+    height: 250px;
+  }
+}
+
