@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/Generador-cartas-sanValentin/static/css/main.ebded320.css",
-    "main.js": "/Generador-cartas-sanValentin/static/js/main.ac82b85c.js",
-    "static/media/foto4.jpg": "/Generador-cartas-sanValentin/static/media/foto4.5499d3454e4c45570bcf.jpg",
-    "static/media/foto2.jpg": "/Generador-cartas-sanValentin/static/media/foto2.018c4699312380bc0336.jpg",
-    "static/media/foto3.jpg": "/Generador-cartas-sanValentin/static/media/foto3.6efb22995e66992b0d4c.jpg",
-    "static/media/foto1.jpg": "/Generador-cartas-sanValentin/static/media/foto1.27ccd2a89149a980a176.jpg",
+    "main.css": "/Generador-cartas-sanValentin/static/css/main.4a74a91a.css",
+    "main.js": "/Generador-cartas-sanValentin/static/js/main.53073e0c.js",
+    "static/media/luli6.jpg": "/Generador-cartas-sanValentin/static/media/luli6.ed714446a9defff41b50.jpg",
+    "static/media/luli10.JPG": "/Generador-cartas-sanValentin/static/media/luli10.f29b493d6a605cbc217f.JPG",
+    "static/media/luli12.jpg": "/Generador-cartas-sanValentin/static/media/luli12.45d4c573b735e212172b.jpg",
+    "static/media/luli8.jpg": "/Generador-cartas-sanValentin/static/media/luli8.b921571c32ac3c8db63b.jpg",
+    "static/media/luli5.jpg": "/Generador-cartas-sanValentin/static/media/luli5.d606e8c872e5f36f82b1.jpg",
+    "static/media/luli9.jpg": "/Generador-cartas-sanValentin/static/media/luli9.3bd58f23138772136bf6.jpg",
+    "static/media/luli1.jpg": "/Generador-cartas-sanValentin/static/media/luli1.b00ec13ad7b480c75484.jpg",
+    "static/media/luli4.jpg": "/Generador-cartas-sanValentin/static/media/luli4.47c350a0254056cd9fb7.jpg",
+    "static/media/luli3.jpg": "/Generador-cartas-sanValentin/static/media/luli3.3199a7ff7e760cbc6f25.jpg",
+    "static/media/luli7.jpg": "/Generador-cartas-sanValentin/static/media/luli7.ddb26a58b83534a1bf61.jpg",
+    "static/media/luli2.jpg": "/Generador-cartas-sanValentin/static/media/luli2.b451c1a80b14949c6a99.jpg",
+    "static/media/luli11.jpg": "/Generador-cartas-sanValentin/static/media/luli11.249e855cabe22ac3b403.jpg",
     "index.html": "/Generador-cartas-sanValentin/index.html",
-    "main.ebded320.css.map": "/Generador-cartas-sanValentin/static/css/main.ebded320.css.map",
-    "main.ac82b85c.js.map": "/Generador-cartas-sanValentin/static/js/main.ac82b85c.js.map"
+    "main.4a74a91a.css.map": "/Generador-cartas-sanValentin/static/css/main.4a74a91a.css.map",
+    "main.53073e0c.js.map": "/Generador-cartas-sanValentin/static/js/main.53073e0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebded320.css",
-    "static/js/main.ac82b85c.js"
+    "static/css/main.4a74a91a.css",
+    "static/js/main.53073e0c.js"
   ]
 }
