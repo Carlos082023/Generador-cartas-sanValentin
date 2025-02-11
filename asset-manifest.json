@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/carta-de-amor/static/css/main.ebded320.css",
-    "main.js": "/carta-de-amor/static/js/main.34da191d.js",
-    "static/media/foto4.jpg": "/carta-de-amor/static/media/foto4.5499d3454e4c45570bcf.jpg",
-    "static/media/foto2.jpg": "/carta-de-amor/static/media/foto2.018c4699312380bc0336.jpg",
-    "static/media/foto3.jpg": "/carta-de-amor/static/media/foto3.6efb22995e66992b0d4c.jpg",
-    "static/media/foto1.jpg": "/carta-de-amor/static/media/foto1.27ccd2a89149a980a176.jpg",
-    "index.html": "/carta-de-amor/index.html",
-    "main.ebded320.css.map": "/carta-de-amor/static/css/main.ebded320.css.map",
-    "main.34da191d.js.map": "/carta-de-amor/static/js/main.34da191d.js.map"
+    "main.css": "/Generador-cartas-sanValentin/static/css/main.ebded320.css",
+    "main.js": "/Generador-cartas-sanValentin/static/js/main.ac82b85c.js",
+    "static/media/foto4.jpg": "/Generador-cartas-sanValentin/static/media/foto4.5499d3454e4c45570bcf.jpg",
+    "static/media/foto2.jpg": "/Generador-cartas-sanValentin/static/media/foto2.018c4699312380bc0336.jpg",
+    "static/media/foto3.jpg": "/Generador-cartas-sanValentin/static/media/foto3.6efb22995e66992b0d4c.jpg",
+    "static/media/foto1.jpg": "/Generador-cartas-sanValentin/static/media/foto1.27ccd2a89149a980a176.jpg",
+    "index.html": "/Generador-cartas-sanValentin/index.html",
+    "main.ebded320.css.map": "/Generador-cartas-sanValentin/static/css/main.ebded320.css.map",
+    "main.ac82b85c.js.map": "/Generador-cartas-sanValentin/static/js/main.ac82b85c.js.map"
   },
   "entrypoints": [
     "static/css/main.ebded320.css",
-    "static/js/main.34da191d.js"
+    "static/js/main.ac82b85c.js"
   ]
 }
