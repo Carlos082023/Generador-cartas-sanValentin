@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Carlos082023/Generador-cartas-sanValentin/static/css/main.ebded320.css",
+    "main.js": "/Carlos082023/Generador-cartas-sanValentin/static/js/main.6d2dbb6e.js",
+    "static/media/foto4.jpg": "/Carlos082023/Generador-cartas-sanValentin/static/media/foto4.5499d3454e4c45570bcf.jpg",
+    "static/media/foto2.jpg": "/Carlos082023/Generador-cartas-sanValentin/static/media/foto2.018c4699312380bc0336.jpg",
+    "static/media/foto3.jpg": "/Carlos082023/Generador-cartas-sanValentin/static/media/foto3.6efb22995e66992b0d4c.jpg",
+    "static/media/foto1.jpg": "/Carlos082023/Generador-cartas-sanValentin/static/media/foto1.27ccd2a89149a980a176.jpg",
+    "index.html": "/Carlos082023/Generador-cartas-sanValentin/index.html",
+    "main.ebded320.css.map": "/Carlos082023/Generador-cartas-sanValentin/static/css/main.ebded320.css.map",
+    "main.6d2dbb6e.js.map": "/Carlos082023/Generador-cartas-sanValentin/static/js/main.6d2dbb6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebded320.css",
+    "static/js/main.6d2dbb6e.js"
+  ]
+}
